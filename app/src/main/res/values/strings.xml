@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MB Bank</string>
+    <string name="begin">Xin chào,</string>
+    <string name="user_name">Dinh\nVan Hoa</string>
+    <string name="hin_pass">Mật khẩu</string>
+    <string name="another_account">Tài khoản khác</string>
+    <string name="fogot_pass">Quên mật khẩu?</string>
+    <string name="login">Đăng nhập</string>
+    <string name="scanner_qr">Quét QR</string>
+    <string name="OTP">Xác thực D-OTP</string>
+    <string name="NFC">Sinh trắc học</string>
+</resources>
